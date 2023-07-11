@@ -1,5 +1,5 @@
-## Chatbot
-This is a chatbot application that can engage in conversations with users. The chatbot is designed to understand user input and provide appropriate responses based on predefined intents. It utilizes a deep learning model and natural language processing techniques.
+# Chatbot
+This is a chatbot application that can engage in conversations with users. The chatbot is designed to understand user input and provide appropriate responses based on predefined intents. It utilizes a deep learning model and natural language processing techniques. It is hosted on Replit and can be accessed at https://chatbot.yasharya5.repl.co/.
 
 # Files
 The project consists of the following files:
